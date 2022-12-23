@@ -1,12 +1,13 @@
 # GitHub Repo Search
 
-This Project aims to implement Github Respository search Functionality using github Search API.
-Each Search result involves Repository Name , Description and Language
-In Addition to that search Result can be sorted based on User filter
+This project aims to implement Github Respository search Functionality using github Search API.
+Each search result involves Repository Name , Description and Language
+In addition to that search Result can be sorted based on User Filter.
 
 
-Please Run the following commands to try it out :
+Please run the following commands to try it out :
 
-npm i -> installs all the dependencies to run the Project.
-once installed you can start the local version by the following command
-npm start
+Install all the dependencies to run the Project.<br>
+<i><b>npm i</b></i> <br>
+once installed you can start the local version by the following command <br>
+<i><b>npm start</b></i>
