@@ -1,4 +1,4 @@
-# GitHub Repo Search
+# GitHub Repository Search
 
 This project aims to implement Github Respository search Functionality using github Search API.
 Each search result involves Repository Name , Description and Language
